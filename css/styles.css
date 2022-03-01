@@ -1,0 +1,161 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #201b2d;
+	font-size: 15px;
+	padding: 0;
+	margin: 0;
+}
+div, p, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 900;
+}
+
+p {
+	line-height: 1.65em;
+}
+.cat {
+	background: rgba(78,191,254,1);
+	background: -moz-linear-gradient(-45deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(78,191,254,1)), color-stop(100%, rgba(55,143,217,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+	background: -o-linear-gradient(-45deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+	background: linear-gradient(135deg, rgba(78,191,254,1) 0%, rgba(55,143,217,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4ebffe', endColorstr='#378fd9', GradientType=1 );
+		padding-top: 70px;
+	padding-bottom: 225px;
+	padding-bottom: 145px;
+	color: #fff;
+}
+.mouse {
+	display: flex;
+	justify-content: space-between;
+}
+.auto {
+	margin-top: 160px;
+	width: 490px;
+}
+.box {
+	font-size: 37px;
+	width: 570px;
+}
+.box span {
+	font-size: 60px;
+}
+.intro {
+	margin-bottom: 49px;
+	margin-top: 51px;
+	width: 405px;
+}
+.rose {
+	font-family: 'Monserat', sans-serif;
+	background: #ffd429;
+	color: black;
+	display: block;
+	width: 222px;
+	padding: 20px 0;
+	text-align: center;
+	text-decoration: none;
+	transition: all 0.5s ease;
+	font-weight: 900;
+}
+.rose:hover {
+	background: #d7ad04;
+	transition: all 0.5s ease;
+}
+.desktop {
+	margin-top: 50px;
+}
+.learn {
+	padding-top: 112px;
+	padding-bottom: 127px;
+}
+.section-title {
+	font-size: 30px;
+	padding-top: 110px;
+	padding-bottom: 85px;
+	text-align: center;
+}
+.skills {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 70px;
+	padding-left: 114px;	
+}
+.skill-title {
+	font-size: 19px;
+}
+.skill-text {
+	margin-top: 5px;
+	width: 290px;
+}
+
+.holder {
+	/*background: url('..img/icon1.jpg') no-repeat left top;*/
+	width: 301px;
+	text-align: center;
+}
+.placeholder {
+	width: 271px;
+	text-align: center;	
+}
+.humb {
+	width: 295px;
+	text-align: center;	
+}
+.caption {
+	font-size: 30px;
+	padding-top: 232px;
+	padding-bottom: 65px;
+	text-align: center;
+}
+.aside {
+	writing-mode: vertical-rl;
+	font-size:16px;
+	top:0;
+  	bottom:0;
+   	left:0;
+  	right:0;
+  	margin:auto;
+}
+.aside input {
+	width: 343px;
+	height: 50px;
+	padding-left: 25px;	
+}
+.card {
+	font-family: 'Monserat', sans-serif;
+	background: #ffd429;
+	color: black;
+	width: 343px;
+	padding: 20px 0;
+	text-align: center;
+	text-decoration: none;*/
+	transition: all 0.5s ease;
+	font-weight: 900;
+	margin: auto;
+	margin-top: 7px;
+	cursor: pointer;
+}
+.footer {
+	padding: 67px;
+	background: #0077d8;
+	text-align: center;
+	font-weight: 900
+	font-family: 'Open Sans', sans-serif;
+
+}
+.container {
+	width: 1171px;
+	margin: 0 auto;
+}
+.credits {
+	color: #d4cee3;
+	font-size: 14px;
+	margin: 0;
+}
